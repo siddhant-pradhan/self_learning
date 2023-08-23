@@ -4,3 +4,4 @@ torchaudio
 tensorboard
 pandas
 matplotlib
+ipykernel
